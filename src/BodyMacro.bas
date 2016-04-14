@@ -1,7 +1,8 @@
 Sub Macro1()
 '
-' Macro1 Macro
+' Justin Allmaras
 '
+' Macro for body text IEEE double column formatting, works in Microsoft word 2013 and 2016
 '
     With Selection.ParagraphFormat
         .LeftIndent = InchesToPoints(0)
